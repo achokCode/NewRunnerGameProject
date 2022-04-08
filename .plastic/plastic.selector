@@ -1,0 +1,4 @@
+repository "Endless Runner@UAFSGameProject@cloud"
+  path "/"
+    br "/main"
+    co "/main"
